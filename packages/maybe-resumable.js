@@ -1,1 +1,1 @@
-git://github.com/resumable2/maybe-resumable.js.git
+{ "url": "git://github.com/resumable2/maybe-resumable.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/PulsarBlow/everest.js.git
+{ "url": "git://github.com/PulsarBlow/everest.js.git" }

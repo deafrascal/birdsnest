@@ -1,1 +1,1 @@
-git://github.com/akselkreis/mediaWrapper.js.git
+{ "url": "git://github.com/akselkreis/mediaWrapper.js.git" }

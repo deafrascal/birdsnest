@@ -1,1 +1,1 @@
-git://github.com/HiroAgustin/donde.js.git
+{ "url": "git://github.com/HiroAgustin/donde.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/flaviusmatis/easyModal.js.git
+{ "url": "git://github.com/flaviusmatis/easyModal.js.git" }

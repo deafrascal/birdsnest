@@ -1,1 +1,1 @@
-git://github.com/ravenac95/binary.js
+{ "url": "git://github.com/ravenac95/binary.js" }

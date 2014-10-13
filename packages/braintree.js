@@ -1,1 +1,1 @@
-git://github.com/braintree/braintree.js.git
+{ "url": "git://github.com/braintree/braintree.js.git" }

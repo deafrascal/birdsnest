@@ -1,1 +1,1 @@
-git://github.com/sourcelair/xterm.js.git
+{ "url": "git://github.com/sourcelair/xterm.js.git" }

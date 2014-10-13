@@ -1,1 +1,1 @@
-git://github.com/rstacruz/repage.js
+{ "url": "git://github.com/rstacruz/repage.js" }

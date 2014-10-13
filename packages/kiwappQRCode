@@ -1,1 +1,1 @@
-git://github.com/kiwapp/kiwappQRCode.git
+{ "url": "git://github.com/kiwapp/kiwappQRCode.git" }

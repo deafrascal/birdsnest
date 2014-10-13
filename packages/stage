@@ -1,1 +1,1 @@
-git://github.com/bluekvirus/Stage.js.git
+{ "url": "git://github.com/bluekvirus/Stage.js.git" }

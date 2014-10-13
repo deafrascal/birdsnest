@@ -1,1 +1,1 @@
-git://github.com/racker/glimpse.js.git
+{ "url": "git://github.com/racker/glimpse.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/rdmurphy/tablesift.js.git
+{ "url": "git://github.com/rdmurphy/tablesift.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/cburgmer/rasterizeHTML.js
+{ "url": "git://github.com/cburgmer/rasterizeHTML.js" }

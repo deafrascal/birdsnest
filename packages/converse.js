@@ -1,1 +1,1 @@
-git://github.com/jcbrand/converse.js.git
+{ "url": "git://github.com/jcbrand/converse.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/CyberAgent/boombox.js.git
+{ "url": "git://github.com/CyberAgent/boombox.js.git" }

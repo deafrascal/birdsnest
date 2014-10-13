@@ -1,1 +1,1 @@
-git://github.com/CyberAgent/suns.js.git
+{ "url": "git://github.com/CyberAgent/suns.js.git" }

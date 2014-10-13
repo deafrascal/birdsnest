@@ -1,1 +1,1 @@
-git://github.com/fgnass/spin.js.git
+{ "url": "git://github.com/fgnass/spin.js.git" }

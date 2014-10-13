@@ -1,1 +1,1 @@
-git://github.com/matthewtoast/Input.js.git
+{ "url": "git://github.com/matthewtoast/Input.js.git" }

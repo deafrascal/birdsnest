@@ -1,1 +1,1 @@
-git://github.com/ffissore/presentz.js.git
+{ "url": "git://github.com/ffissore/presentz.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/stevenschobert/instafeed.js.git
+{ "url": "git://github.com/stevenschobert/instafeed.js.git" }

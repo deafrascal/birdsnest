@@ -1,1 +1,1 @@
-git://github.com/ftdebugger/glue.git
+{ "url": "git://github.com/ftdebugger/glue.git" }

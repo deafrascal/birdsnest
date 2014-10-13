@@ -1,1 +1,1 @@
-git://github.com/PascalPrecht/jquery.neotabs.js
+{ "url": "git://github.com/PascalPrecht/jquery.neotabs.js" }

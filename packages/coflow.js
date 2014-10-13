@@ -1,1 +1,1 @@
-git://github.com/phi1618/coflow.js.git
+{ "url": "git://github.com/phi1618/coflow.js.git" }

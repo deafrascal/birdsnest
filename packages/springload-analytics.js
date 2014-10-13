@@ -1,1 +1,1 @@
-git://github.com/springload/Analytics.git
+{ "url": "git://github.com/springload/Analytics.git" }

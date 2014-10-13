@@ -1,1 +1,1 @@
-git://github.com/toruta39/sound.js.git
+{ "url": "git://github.com/toruta39/sound.js.git" }

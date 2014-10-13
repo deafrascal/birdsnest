@@ -1,1 +1,1 @@
-git://github.com/cyrilbarragan/quick-readmore.js.git
+{ "url": "git://github.com/cyrilbarragan/quick-readmore.js.git" }

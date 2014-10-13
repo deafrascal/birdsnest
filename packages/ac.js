@@ -1,1 +1,1 @@
-git://github.com/addaleax/autocomp.git
+{ "url": "git://github.com/addaleax/autocomp.git" }

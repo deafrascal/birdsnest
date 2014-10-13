@@ -1,1 +1,1 @@
-git://github.com/polikis/EPubBuilder.js.git
+{ "url": "git://github.com/polikis/EPubBuilder.js.git" }

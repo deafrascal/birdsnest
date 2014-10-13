@@ -1,1 +1,1 @@
-git://github.com/acatl/ns.js.git
+{ "url": "git://github.com/acatl/ns.js.git" }

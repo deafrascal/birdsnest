@@ -1,1 +1,1 @@
-git://github.com/cyberpython/AwesomeChartJS.git
+{ "url": "git://github.com/cyberpython/AwesomeChartJS.git" }

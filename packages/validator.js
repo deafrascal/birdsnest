@@ -1,1 +1,1 @@
-git://github.com/guillaumepotier/validator.js.git
+{ "url": "git://github.com/guillaumepotier/validator.js.git" }

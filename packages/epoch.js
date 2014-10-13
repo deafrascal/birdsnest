@@ -1,1 +1,1 @@
-git://github.com/chocolatetoothpaste/epoch.git
+{ "url": "git://github.com/chocolatetoothpaste/epoch.git" }

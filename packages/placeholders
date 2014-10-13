@@ -1,1 +1,1 @@
-git://github.com/jamesallardice/Placeholders.js.git
+{ "url": "git://github.com/jamesallardice/Placeholders.js.git" }

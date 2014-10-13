@@ -1,1 +1,1 @@
-git://github.com/ajb/underscore.sanitize.js.git
+{ "url": "git://github.com/ajb/underscore.sanitize.js.git" }

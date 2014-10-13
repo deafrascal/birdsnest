@@ -1,1 +1,1 @@
-git://github.com/mondalaci/positional-format.js.git
+{ "url": "git://github.com/mondalaci/positional-format.js.git" }

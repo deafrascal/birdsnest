@@ -1,1 +1,1 @@
-git://github.com/jarinudom/naturalSort.js.git
+{ "url": "git://github.com/jarinudom/naturalSort.js.git" }

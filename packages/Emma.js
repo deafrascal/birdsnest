@@ -1,1 +1,1 @@
-git://github.com/differui/Emma.js
+{ "url": "git://github.com/differui/Emma.js" }

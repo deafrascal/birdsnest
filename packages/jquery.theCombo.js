@@ -1,1 +1,1 @@
-git://github.com/lagden/theCombo.git
+{ "url": "git://github.com/lagden/theCombo.git" }

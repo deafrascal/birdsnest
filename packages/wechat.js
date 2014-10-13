@@ -1,1 +1,1 @@
-git://github.com/sofish/wechat.js.git
+{ "url": "git://github.com/sofish/wechat.js.git" }

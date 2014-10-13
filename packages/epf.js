@@ -1,1 +1,1 @@
-git://github.com/getoutreach/epf-shim.git
+{ "url": "git://github.com/getoutreach/epf-shim.git" }

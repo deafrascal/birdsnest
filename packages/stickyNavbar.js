@@ -1,1 +1,1 @@
-git://github.com/jbutko/stickyNavbar.js.git
+{ "url": "git://github.com/jbutko/stickyNavbar.js.git" }

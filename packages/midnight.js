@@ -1,1 +1,1 @@
-git://github.com/Aerolab/midnight.js.git
+{ "url": "git://github.com/Aerolab/midnight.js.git" }

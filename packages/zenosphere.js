@@ -1,1 +1,1 @@
-git://github.com/rummik/zenosphere.js.git
+{ "url": "git://github.com/rummik/zenosphere.js.git" }

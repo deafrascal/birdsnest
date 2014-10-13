@@ -1,1 +1,1 @@
-git://github.com/GwennaelBuchet/SceneGraph.js.git
+{ "url": "git://github.com/GwennaelBuchet/SceneGraph.js.git" }

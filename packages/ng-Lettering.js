@@ -1,1 +1,1 @@
-git://github.com/patrickmarabeas/ng-Lettering.git
+{ "url": "git://github.com/patrickmarabeas/ng-Lettering.git" }

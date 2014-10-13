@@ -1,1 +1,1 @@
-git://github.com/dirigodev/FitLines.js.git
+{ "url": "git://github.com/dirigodev/FitLines.js.git" }

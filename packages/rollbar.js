@@ -1,1 +1,1 @@
-git://github.com/rollbar/rollbar.js
+{ "url": "git://github.com/rollbar/rollbar.js" }

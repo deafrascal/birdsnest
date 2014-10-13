@@ -1,1 +1,1 @@
-git://github.com/vstene/chessboardjs.git
+{ "url": "git://github.com/vstene/chessboardjs.git" }

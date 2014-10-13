@@ -1,1 +1,1 @@
-git://github.com/dnomak/flexible.gs.git
+{ "url": "git://github.com/dnomak/flexible.gs.git" }

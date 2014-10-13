@@ -1,1 +1,1 @@
-git://github.com/brunjo/rowGrid.js.git
+{ "url": "git://github.com/brunjo/rowGrid.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/TrackIF/intro.js.git
+{ "url": "git://github.com/TrackIF/intro.js.git" }

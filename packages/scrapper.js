@@ -1,1 +1,1 @@
-git://github.com/gavD/scrapper.js.git
+{ "url": "git://github.com/gavD/scrapper.js.git" }

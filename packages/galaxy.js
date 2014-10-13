@@ -1,1 +1,1 @@
-git://github.com/chortlehoort/galaxy.js.git
+{ "url": "git://github.com/chortlehoort/galaxy.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/Regaddi/Chart.StackedBar.js.git
+{ "url": "git://github.com/Regaddi/Chart.StackedBar.js.git" }

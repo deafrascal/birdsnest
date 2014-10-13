@@ -1,1 +1,1 @@
-git://github.com/SoftwareDevPro/EventEmitter.coffee.git
+{ "url": "git://github.com/SoftwareDevPro/EventEmitter.coffee.git" }

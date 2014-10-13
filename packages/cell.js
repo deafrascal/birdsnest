@@ -1,1 +1,1 @@
-git://github.com/makesites/cell.git
+{ "url": "git://github.com/makesites/cell.git" }

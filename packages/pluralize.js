@@ -1,1 +1,1 @@
-git://github.com/asaf/attache-pluralize-js
+{ "url": "git://github.com/asaf/attache-pluralize-js" }

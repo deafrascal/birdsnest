@@ -1,1 +1,1 @@
-git://github.com/makesites/jquery-hurl.git
+{ "url": "git://github.com/makesites/jquery-hurl.git" }

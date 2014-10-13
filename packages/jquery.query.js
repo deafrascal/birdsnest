@@ -1,1 +1,1 @@
-git://github.com/plasticine/jquery.query.js.git
+{ "url": "git://github.com/plasticine/jquery.query.js.git" }

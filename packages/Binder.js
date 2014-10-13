@@ -1,1 +1,1 @@
-git://github.com/nekman/Binder.js.git
+{ "url": "git://github.com/nekman/Binder.js.git" }

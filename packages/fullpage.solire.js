@@ -1,1 +1,1 @@
-git://github.com/Solire/fullPage.js.git
+{ "url": "git://github.com/Solire/fullPage.js.git" }

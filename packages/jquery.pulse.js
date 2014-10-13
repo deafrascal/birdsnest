@@ -1,1 +1,1 @@
-git://github.com/jsoverson/jquery.pulse.js.git
+{ "url": "git://github.com/jsoverson/jquery.pulse.js.git" }

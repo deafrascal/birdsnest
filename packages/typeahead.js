@@ -1,1 +1,1 @@
-git://github.com/twitter/typeahead.js
+{ "url": "git://github.com/twitter/typeahead.js" }

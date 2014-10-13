@@ -1,1 +1,1 @@
-git://github.com/DracoBlue/logging-js.git
+{ "url": "git://github.com/DracoBlue/logging-js.git" }

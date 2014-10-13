@@ -1,1 +1,1 @@
-git://github.com/herrmannplatz/cutout.git
+{ "url": "git://github.com/herrmannplatz/cutout.git" }

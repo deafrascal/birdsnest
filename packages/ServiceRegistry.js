@@ -1,1 +1,1 @@
-git://github.com/tantaman/ServiceRegistry.js
+{ "url": "git://github.com/tantaman/ServiceRegistry.js" }

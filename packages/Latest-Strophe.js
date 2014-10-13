@@ -1,1 +1,1 @@
-git://github.com/kmlx/bower-strophejs-latest.git
+{ "url": "git://github.com/kmlx/bower-strophejs-latest.git" }

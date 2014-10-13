@@ -1,1 +1,1 @@
-git://github.com/briangonzalez/jquery.pep.js.git
+{ "url": "git://github.com/briangonzalez/jquery.pep.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/NightPhoenix/svg.textflow.js.git
+{ "url": "git://github.com/NightPhoenix/svg.textflow.js.git" }

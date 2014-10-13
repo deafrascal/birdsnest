@@ -1,1 +1,1 @@
-git://github.com/prismicio/javascript-kit.git
+{ "url": "git://github.com/prismicio/javascript-kit.git" }

@@ -1,1 +1,1 @@
-git://github.com/EightMedia/yass.js.git
+{ "url": "git://github.com/EightMedia/yass.js.git" }

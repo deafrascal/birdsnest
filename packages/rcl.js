@@ -1,1 +1,1 @@
-git://github.com/jsoverson/rcl.git
+{ "url": "git://github.com/jsoverson/rcl.git" }

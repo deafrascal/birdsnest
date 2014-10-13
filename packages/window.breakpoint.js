@@ -1,1 +1,1 @@
-git://github.com/changalberto/window.breakpoint.js.git
+{ "url": "git://github.com/changalberto/window.breakpoint.js.git" }

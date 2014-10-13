@@ -1,1 +1,1 @@
-git://github.com/Daniel-Hug/subscribable.js.git
+{ "url": "git://github.com/Daniel-Hug/subscribable.js.git" }

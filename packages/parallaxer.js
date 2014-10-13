@@ -1,1 +1,1 @@
-git://github.com/andrzejdus/parallaxer.js.git
+{ "url": "git://github.com/andrzejdus/parallaxer.js.git" }

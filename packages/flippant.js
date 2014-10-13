@@ -1,1 +1,1 @@
-git://github.com/mintchaos/flippant.js.git
+{ "url": "git://github.com/mintchaos/flippant.js.git" }

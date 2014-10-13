@@ -1,1 +1,1 @@
-git://github.com/mabasic/masonify.js.git
+{ "url": "git://github.com/mabasic/masonify.js.git" }

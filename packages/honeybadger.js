@@ -1,1 +1,1 @@
-git://github.com/honeybadger-io/honeybadger-js.git
+{ "url": "git://github.com/honeybadger-io/honeybadger-js.git" }

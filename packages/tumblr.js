@@ -1,1 +1,1 @@
-git://github.com/tumblr/tumblr.js.git
+{ "url": "git://github.com/tumblr/tumblr.js.git" }

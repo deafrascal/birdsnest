@@ -1,1 +1,1 @@
-git://github.com/philbooth/vagueDate.js.git
+{ "url": "git://github.com/philbooth/vagueDate.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/trinketapp/pygal.js.git
+{ "url": "git://github.com/trinketapp/pygal.js.git" }

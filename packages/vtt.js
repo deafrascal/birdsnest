@@ -1,1 +1,1 @@
-git://github.com/RickEyre/vtt.js-dist.git
+{ "url": "git://github.com/RickEyre/vtt.js-dist.git" }

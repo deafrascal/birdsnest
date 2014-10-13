@@ -1,1 +1,1 @@
-git://github.com/leadhead9/discuss.js.git
+{ "url": "git://github.com/leadhead9/discuss.js.git" }

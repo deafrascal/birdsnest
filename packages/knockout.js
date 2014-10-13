@@ -1,1 +1,1 @@
-git://github.com/bowerjs/knockout.git
+{ "url": "git://github.com/bowerjs/knockout.git" }

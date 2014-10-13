@@ -1,1 +1,1 @@
-git://github.com/stormpath/stormpath.js.git
+{ "url": "git://github.com/stormpath/stormpath.js.git" }

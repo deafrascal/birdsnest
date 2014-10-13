@@ -1,1 +1,1 @@
-git://github.com/dfcb/BigVideo.js.git
+{ "url": "git://github.com/dfcb/BigVideo.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/Cinamonas/scrollbar.js.git
+{ "url": "git://github.com/Cinamonas/scrollbar.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/ndreckshage/roughdraft.js
+{ "url": "git://github.com/ndreckshage/roughdraft.js" }

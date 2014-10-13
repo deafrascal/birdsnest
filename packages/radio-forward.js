@@ -1,1 +1,1 @@
-git://github.com/Puppets/radio-forward.js.git
+{ "url": "git://github.com/Puppets/radio-forward.js.git" }

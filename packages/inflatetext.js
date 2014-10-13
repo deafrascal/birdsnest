@@ -1,1 +1,1 @@
-git://github.com/rjz/inflateText.js.git
+{ "url": "git://github.com/rjz/inflateText.js.git" }

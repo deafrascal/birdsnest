@@ -1,1 +1,1 @@
-git://github.com/scttnlsn/backbone.io.git
+{ "url": "git://github.com/scttnlsn/backbone.io.git" }

@@ -1,1 +1,1 @@
-git://github.com/flamejs/flame.js.git
+{ "url": "git://github.com/flamejs/flame.js.git" }

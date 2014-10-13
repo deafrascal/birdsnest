@@ -1,1 +1,1 @@
-git://github.com/heelhook/chardin.js.git
+{ "url": "git://github.com/heelhook/chardin.js.git" }

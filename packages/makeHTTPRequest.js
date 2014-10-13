@@ -1,1 +1,1 @@
-git://github.com/digisfera/makeHTTPRequest.js.git
+{ "url": "git://github.com/digisfera/makeHTTPRequest.js.git" }

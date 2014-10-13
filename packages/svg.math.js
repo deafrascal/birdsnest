@@ -1,1 +1,1 @@
-git://github.com/otm/svg.math.js.git
+{ "url": "git://github.com/otm/svg.math.js.git" }

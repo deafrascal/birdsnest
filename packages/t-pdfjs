@@ -1,1 +1,1 @@
-git://github.com/tavwizard/pdf.js.git
+{ "url": "git://github.com/tavwizard/pdf.js.git" }

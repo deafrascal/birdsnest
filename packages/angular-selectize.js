@@ -1,1 +1,1 @@
-git://github.com/EvanOxfeld/angular-selectize.js.git
+{ "url": "git://github.com/EvanOxfeld/angular-selectize.js.git" }

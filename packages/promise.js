@@ -1,1 +1,1 @@
-git://github.com/ondras/promise.git
+{ "url": "git://github.com/ondras/promise.git" }

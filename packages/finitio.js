@@ -1,1 +1,1 @@
-git://github.com/llambeau/finitio.js.git
+{ "url": "git://github.com/llambeau/finitio.js.git" }

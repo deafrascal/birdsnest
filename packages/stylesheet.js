@@ -1,1 +1,1 @@
-git://github.com/ro-ka/stylesheet.js.git
+{ "url": "git://github.com/ro-ka/stylesheet.js.git" }

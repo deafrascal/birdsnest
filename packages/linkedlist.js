@@ -1,1 +1,1 @@
-git://github.com/mparke/linkedlist.js.git
+{ "url": "git://github.com/mparke/linkedlist.js.git" }

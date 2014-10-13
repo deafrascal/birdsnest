@@ -1,1 +1,1 @@
-git://github.com/jpillora/jquery.rest/
+{ "url": "git://github.com/jpillora/jquery.rest/" }

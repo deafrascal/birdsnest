@@ -1,1 +1,1 @@
-git://github.com/transportapi/transportapi.js.git
+{ "url": "git://github.com/transportapi/transportapi.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/louisremi/jquery.wheel.js.git
+{ "url": "git://github.com/louisremi/jquery.wheel.js.git" }

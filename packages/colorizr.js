@@ -1,1 +1,1 @@
-git://github.com/analog-nico/colorizr.git
+{ "url": "git://github.com/analog-nico/colorizr.git" }

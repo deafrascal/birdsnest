@@ -1,1 +1,1 @@
-git://github.com/mondora/ddp.js.git
+{ "url": "git://github.com/mondora/ddp.js.git" }

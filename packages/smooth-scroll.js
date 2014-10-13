@@ -1,1 +1,1 @@
-git://github.com/cferdinandi/smooth-scroll.git
+{ "url": "git://github.com/cferdinandi/smooth-scroll.git" }

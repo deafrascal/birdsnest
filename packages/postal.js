@@ -1,1 +1,1 @@
-git://github.com/postaljs/postal.js.git
+{ "url": "git://github.com/postaljs/postal.js.git" }

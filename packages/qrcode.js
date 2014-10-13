@@ -1,1 +1,1 @@
-git://github.com/chilijung/qrcodejs.git
+{ "url": "git://github.com/chilijung/qrcodejs.git" }

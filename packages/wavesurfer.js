@@ -1,1 +1,1 @@
-git://github.com/katspaugh/wavesurfer.js.git
+{ "url": "git://github.com/katspaugh/wavesurfer.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/nfroidure/UTF8.js.git
+{ "url": "git://github.com/nfroidure/UTF8.js.git" }

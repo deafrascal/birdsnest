@@ -1,1 +1,1 @@
-git://github.com/konstantindenerz/tooltip.git
+{ "url": "git://github.com/konstantindenerz/tooltip.git" }

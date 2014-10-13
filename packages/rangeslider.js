@@ -1,1 +1,1 @@
-git://github.com/andreruffert/rangeslider.js.git
+{ "url": "git://github.com/andreruffert/rangeslider.js.git" }

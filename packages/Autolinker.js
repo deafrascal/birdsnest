@@ -1,1 +1,1 @@
-git://github.com/gregjacobs/Autolinker.js.git
+{ "url": "git://github.com/gregjacobs/Autolinker.js.git" }

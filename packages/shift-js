@@ -1,1 +1,1 @@
-git://github.com/Wildhoney/Shift.js.git
+{ "url": "git://github.com/Wildhoney/Shift.js.git" }

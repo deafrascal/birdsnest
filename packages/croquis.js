@@ -1,1 +1,1 @@
-git://github.com/disjukr/croquis.js.git
+{ "url": "git://github.com/disjukr/croquis.js.git" }

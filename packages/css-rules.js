@@ -1,1 +1,1 @@
-git://github.com/njif/css-rules.js.git
+{ "url": "git://github.com/njif/css-rules.js.git" }

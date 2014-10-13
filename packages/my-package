@@ -1,1 +1,1 @@
-git://github.com/my-org/my-package.git
+{ "url": "git://github.com/my-org/my-package.git" }

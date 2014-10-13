@@ -1,1 +1,1 @@
-git://github.com/buglabs/dweetio-client.git
+{ "url": "git://github.com/buglabs/dweetio-client.git" }

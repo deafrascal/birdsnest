@@ -1,1 +1,1 @@
-git://github.com/qiao/PathFinding.js.git
+{ "url": "git://github.com/qiao/PathFinding.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/kjbekkelund/po.js.git
+{ "url": "git://github.com/kjbekkelund/po.js.git" }

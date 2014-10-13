@@ -1,1 +1,1 @@
-git://github.com/jtblin/angular-chart.js
+{ "url": "git://github.com/jtblin/angular-chart.js" }

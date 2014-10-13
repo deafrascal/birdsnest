@@ -1,1 +1,1 @@
-git://github.com/xna2/romaji.js.git
+{ "url": "git://github.com/xna2/romaji.js.git" }

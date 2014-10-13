@@ -1,1 +1,1 @@
-git://github.com/blittle/speak.js.git
+{ "url": "git://github.com/blittle/speak.js.git" }

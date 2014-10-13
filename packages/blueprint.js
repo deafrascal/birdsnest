@@ -1,1 +1,1 @@
-git://github.com/avinoamr/blueprint.js.git
+{ "url": "git://github.com/avinoamr/blueprint.js.git" }

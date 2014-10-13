@@ -1,1 +1,1 @@
-git://github.com/kartograph/kartograph.js.git
+{ "url": "git://github.com/kartograph/kartograph.js.git" }

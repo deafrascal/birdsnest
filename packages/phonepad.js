@@ -1,1 +1,1 @@
-git://github.com/guillaume-gouchon/phonepad.js.git
+{ "url": "git://github.com/guillaume-gouchon/phonepad.js.git" }

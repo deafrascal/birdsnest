@@ -1,1 +1,1 @@
-git://github.com/ain/koodmeeter.js.git
+{ "url": "git://github.com/ain/koodmeeter.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/concord-consortium/populations.js.git
+{ "url": "git://github.com/concord-consortium/populations.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/nexussays/load.js-dist.git
+{ "url": "git://github.com/nexussays/load.js-dist.git" }

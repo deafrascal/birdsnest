@@ -1,1 +1,1 @@
-git://github.com/orbitjs/bower-orbit.git
+{ "url": "git://github.com/orbitjs/bower-orbit.git" }

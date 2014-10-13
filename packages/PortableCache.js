@@ -1,1 +1,1 @@
-git://github.com/agektmr/PortableCache.js/
+{ "url": "git://github.com/agektmr/PortableCache.js/" }

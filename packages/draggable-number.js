@@ -1,1 +1,1 @@
-git://github.com/idflood/draggable-number.js.git
+{ "url": "git://github.com/idflood/draggable-number.js.git" }

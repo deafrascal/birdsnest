@@ -1,1 +1,1 @@
-git://kernel.ubuntu.com/ubuntu/ubuntu-trusty.git
+{ "url": "git://kernel.ubuntu.com/ubuntu/ubuntu-trusty.git" }

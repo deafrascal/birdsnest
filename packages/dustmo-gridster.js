@@ -1,1 +1,1 @@
-git://github.com/dustmoo/gridster.js.git
+{ "url": "git://github.com/dustmoo/gridster.js.git" }

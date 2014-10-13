@@ -1,1 +1,1 @@
-git://github.com/muyuu/tabn
+{ "url": "git://github.com/muyuu/tabn" }

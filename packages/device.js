@@ -1,1 +1,1 @@
-git://github.com/soyjavi/package-device.js.git
+{ "url": "git://github.com/soyjavi/package-device.js.git" }

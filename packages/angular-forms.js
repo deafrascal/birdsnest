@@ -1,1 +1,1 @@
-git://github.com/chouseknecht/angular-forms.js.git
+{ "url": "git://github.com/chouseknecht/angular-forms.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/jtenner/Composer.js
+{ "url": "git://github.com/jtenner/Composer.js" }

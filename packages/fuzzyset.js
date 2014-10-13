@@ -1,1 +1,1 @@
-git://github.com/Glench/fuzzyset.js.git
+{ "url": "git://github.com/Glench/fuzzyset.js.git" }

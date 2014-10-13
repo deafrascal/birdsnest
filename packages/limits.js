@@ -1,1 +1,1 @@
-git://github.com/xat/limits.js.git
+{ "url": "git://github.com/xat/limits.js.git" }

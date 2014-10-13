@@ -1,1 +1,1 @@
-git://github.com/Offirmo/base-objects.js.git
+{ "url": "git://github.com/Offirmo/base-objects.js.git" }

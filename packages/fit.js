@@ -1,1 +1,1 @@
-git://github.com/soulwire/fit.js.git
+{ "url": "git://github.com/soulwire/fit.js.git" }

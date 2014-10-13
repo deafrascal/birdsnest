@@ -1,1 +1,1 @@
-git://github.com/Puppets/wmd.js.git
+{ "url": "git://github.com/Puppets/wmd.js.git" }

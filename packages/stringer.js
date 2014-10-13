@@ -1,1 +1,1 @@
-git://github.com/ondrs/stringer.js.git
+{ "url": "git://github.com/ondrs/stringer.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/rmariuzzo/checkboxes.js.git
+{ "url": "git://github.com/rmariuzzo/checkboxes.js.git" }

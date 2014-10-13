@@ -1,1 +1,1 @@
-git://github.com/evitolins/refresher.js.git
+{ "url": "git://github.com/evitolins/refresher.js.git" }

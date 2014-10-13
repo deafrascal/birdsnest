@@ -1,1 +1,1 @@
-git://github.com/hoho/concat.js.git
+{ "url": "git://github.com/hoho/concat.js.git" }

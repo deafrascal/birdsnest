@@ -1,1 +1,1 @@
-git://github.com/JoshBarr/Quicktube.js.git
+{ "url": "git://github.com/JoshBarr/Quicktube.js.git" }

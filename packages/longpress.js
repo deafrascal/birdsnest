@@ -1,1 +1,1 @@
-git://github.com/vaidik/longpress.js.git
+{ "url": "git://github.com/vaidik/longpress.js.git" }

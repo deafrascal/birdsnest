@@ -1,1 +1,1 @@
-git://github.com/tictail/bounce.js.git
+{ "url": "git://github.com/tictail/bounce.js.git" }

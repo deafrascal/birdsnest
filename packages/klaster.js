@@ -1,1 +1,1 @@
-git://github.com/kindziora/klaster.js.git
+{ "url": "git://github.com/kindziora/klaster.js.git" }

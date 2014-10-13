@@ -1,1 +1,1 @@
-git://github.com/Pomax/Font.js
+{ "url": "git://github.com/Pomax/Font.js" }

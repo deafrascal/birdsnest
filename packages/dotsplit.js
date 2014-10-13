@@ -1,1 +1,1 @@
-git://github.com/wilmoore/dotsplit.js.git
+{ "url": "git://github.com/wilmoore/dotsplit.js.git" }

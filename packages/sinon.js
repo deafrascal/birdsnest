@@ -1,1 +1,1 @@
-git://github.com/svnlto/Sinon.JS
+{ "url": "git://github.com/svnlto/Sinon.JS" }

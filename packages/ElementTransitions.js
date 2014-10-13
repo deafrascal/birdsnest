@@ -1,1 +1,1 @@
-git://github.com/dan-silver/ElementTransitions.js.git
+{ "url": "git://github.com/dan-silver/ElementTransitions.js.git" }

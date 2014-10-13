@@ -1,1 +1,1 @@
-git://github.com/GianlucaGuarini/Tocca.js.git
+{ "url": "git://github.com/GianlucaGuarini/Tocca.js.git" }

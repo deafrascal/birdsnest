@@ -1,1 +1,1 @@
-git://github.com/bebraw/yabox.js
+{ "url": "git://github.com/bebraw/yabox.js" }

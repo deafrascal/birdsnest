@@ -1,1 +1,1 @@
-git://github.com/skroutz/selectorablium.git
+{ "url": "git://github.com/skroutz/selectorablium.git" }

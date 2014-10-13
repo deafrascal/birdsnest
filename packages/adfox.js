@@ -1,1 +1,1 @@
-git://github.com/Intervox/adfox.js.git
+{ "url": "git://github.com/Intervox/adfox.js.git" }

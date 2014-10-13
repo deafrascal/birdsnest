@@ -1,1 +1,1 @@
-git://github.com/timdream/wordcloud2.js.git
+{ "url": "git://github.com/timdream/wordcloud2.js.git" }

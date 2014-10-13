@@ -1,1 +1,1 @@
-git://github.com/onsip/SIP.js.git
+{ "url": "git://github.com/onsip/SIP.js.git" }

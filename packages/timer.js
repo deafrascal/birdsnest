@@ -1,1 +1,1 @@
-git://github.com/vitalk/timer.js.git
+{ "url": "git://github.com/vitalk/timer.js.git" }

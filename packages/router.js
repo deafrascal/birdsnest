@@ -1,1 +1,1 @@
-git://github.com/ramiel/Router.js.git
+{ "url": "git://github.com/ramiel/Router.js.git" }

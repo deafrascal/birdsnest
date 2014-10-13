@@ -1,1 +1,1 @@
-git://github.com/mstroeck/console-shim.js.git
+{ "url": "git://github.com/mstroeck/console-shim.js.git" }

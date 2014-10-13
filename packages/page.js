@@ -1,1 +1,1 @@
-git://github.com/visionmedia/page.js.git
+{ "url": "git://github.com/visionmedia/page.js.git" }

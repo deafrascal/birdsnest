@@ -1,1 +1,1 @@
-git://github.com/danpalmer/jquery.complexify.js.git
+{ "url": "git://github.com/danpalmer/jquery.complexify.js.git" }

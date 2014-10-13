@@ -1,1 +1,1 @@
-git://github.com/andreas-trad/motorcortexjs.git
+{ "url": "git://github.com/andreas-trad/motorcortexjs.git" }

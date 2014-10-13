@@ -1,1 +1,1 @@
-git://github.com/qbit/callsign.js.git
+{ "url": "git://github.com/qbit/callsign.js.git" }

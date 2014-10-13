@@ -1,1 +1,1 @@
-git://github.com/Schibum/iconv.js.git
+{ "url": "git://github.com/Schibum/iconv.js.git" }

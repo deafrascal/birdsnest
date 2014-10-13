@@ -1,1 +1,1 @@
-git://github.com/neokoenig/jQuery-gridmanager.git
+{ "url": "git://github.com/neokoenig/jQuery-gridmanager.git" }

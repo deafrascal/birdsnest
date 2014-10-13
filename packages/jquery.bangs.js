@@ -1,1 +1,1 @@
-git://github.com/muyuu/jquery.bangs.js.git
+{ "url": "git://github.com/muyuu/jquery.bangs.js.git" }

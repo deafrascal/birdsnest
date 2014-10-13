@@ -1,1 +1,1 @@
-git://github.com/rads/csp.js.git
+{ "url": "git://github.com/rads/csp.js.git" }

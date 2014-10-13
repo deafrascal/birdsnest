@@ -1,1 +1,1 @@
-git://github.com/derflocki/chrome.storage.local.js.git
+{ "url": "git://github.com/derflocki/chrome.storage.local.js.git" }

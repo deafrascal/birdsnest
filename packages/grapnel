@@ -1,1 +1,1 @@
-git://github.com/EngineeringMode/Grapnel.js.git
+{ "url": "git://github.com/EngineeringMode/Grapnel.js.git" }

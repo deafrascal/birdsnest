@@ -1,1 +1,1 @@
-git://github.com/wout/svg.import.js.git
+{ "url": "git://github.com/wout/svg.import.js.git" }

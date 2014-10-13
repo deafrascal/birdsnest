@@ -1,1 +1,1 @@
-git://github.com/MakerStudios/Scenario.js.git
+{ "url": "git://github.com/MakerStudios/Scenario.js.git" }

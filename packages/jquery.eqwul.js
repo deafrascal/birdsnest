@@ -1,1 +1,1 @@
-git://github.com/moimikey/eqwul.git
+{ "url": "git://github.com/moimikey/eqwul.git" }

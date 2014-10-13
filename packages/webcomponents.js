@@ -1,1 +1,1 @@
-git://github.com/Polymer/webcomponents.js.git
+{ "url": "git://github.com/Polymer/webcomponents.js.git" }

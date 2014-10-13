@@ -1,1 +1,1 @@
-git://github.com/neocotic/Backbone.Do.git
+{ "url": "git://github.com/neocotic/Backbone.Do.git" }

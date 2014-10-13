@@ -1,1 +1,1 @@
-git://github.com/chrisyip/browser-cookie.js.git
+{ "url": "git://github.com/chrisyip/browser-cookie.js.git" }

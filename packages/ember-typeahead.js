@@ -1,1 +1,1 @@
-git://github.com/gevious/ember-typeahead.git
+{ "url": "git://github.com/gevious/ember-typeahead.git" }

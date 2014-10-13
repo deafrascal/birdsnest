@@ -1,1 +1,1 @@
-git://github.com/jpntex/TextTailor.js.git
+{ "url": "git://github.com/jpntex/TextTailor.js.git" }

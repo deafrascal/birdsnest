@@ -1,1 +1,1 @@
-git://github.com/mirego/foreigner.js.git
+{ "url": "git://github.com/mirego/foreigner.js.git" }

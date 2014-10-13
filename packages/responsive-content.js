@@ -1,1 +1,1 @@
-git://github.com/Tyriar/responsive-content.js.git
+{ "url": "git://github.com/Tyriar/responsive-content.js.git" }

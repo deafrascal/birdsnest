@@ -1,1 +1,1 @@
-git://github.com/olyckne/cassie-client.js
+{ "url": "git://github.com/olyckne/cassie-client.js" }

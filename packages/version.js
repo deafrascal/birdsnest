@@ -1,1 +1,1 @@
-git://github.com/jstayton/version.js
+{ "url": "git://github.com/jstayton/version.js" }

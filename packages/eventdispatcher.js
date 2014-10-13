@@ -1,1 +1,1 @@
-git://github.com/mrdoob/eventdispatcher.js.git
+{ "url": "git://github.com/mrdoob/eventdispatcher.js.git" }

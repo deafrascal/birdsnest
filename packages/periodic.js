@@ -1,1 +1,1 @@
-git://github.com/BostonGlobe/periodic.js.git
+{ "url": "git://github.com/BostonGlobe/periodic.js.git" }

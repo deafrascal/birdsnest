@@ -1,1 +1,1 @@
-git://github.com/simplefocus/FlowType.JS.git
+{ "url": "git://github.com/simplefocus/FlowType.JS.git" }

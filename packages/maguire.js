@@ -1,1 +1,1 @@
-git://github.com/paddle8/maguire.js.git
+{ "url": "git://github.com/paddle8/maguire.js.git" }

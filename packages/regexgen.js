@@ -1,1 +1,1 @@
-git://github.com/amobiz/regexgen.js.git
+{ "url": "git://github.com/amobiz/regexgen.js.git" }

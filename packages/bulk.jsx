@@ -1,1 +1,1 @@
-git://github.com/hanamura/bulk.jsx.git
+{ "url": "git://github.com/hanamura/bulk.jsx.git" }

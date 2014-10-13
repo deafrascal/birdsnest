@@ -1,1 +1,1 @@
-git://github.com/codeinchaos/httparchive.js.git
+{ "url": "git://github.com/codeinchaos/httparchive.js.git" }

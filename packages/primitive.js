@@ -1,1 +1,1 @@
-git://github.com/cdata/primitive.js.git
+{ "url": "git://github.com/cdata/primitive.js.git" }

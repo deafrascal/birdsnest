@@ -1,1 +1,1 @@
-git://github.com/codecruzer/webgl-shader-loader-js.git
+{ "url": "git://github.com/codecruzer/webgl-shader-loader-js.git" }

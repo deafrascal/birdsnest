@@ -1,1 +1,1 @@
-git://github.com/KanoComputing/Pong.js.git
+{ "url": "git://github.com/KanoComputing/Pong.js.git" }

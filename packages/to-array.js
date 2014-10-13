@@ -1,1 +1,1 @@
-git://github.com/wilmoore/to-array.js.git
+{ "url": "git://github.com/wilmoore/to-array.js.git" }

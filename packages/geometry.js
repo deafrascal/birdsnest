@@ -1,1 +1,1 @@
-git://github.com/bright/geometry.js.git
+{ "url": "git://github.com/bright/geometry.js.git" }

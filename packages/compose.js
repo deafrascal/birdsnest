@@ -1,1 +1,1 @@
-git://github.com/bvalosek/compose.js.git
+{ "url": "git://github.com/bvalosek/compose.js.git" }

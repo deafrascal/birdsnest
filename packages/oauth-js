@@ -1,1 +1,1 @@
-git://github.com/oauth-io/oauth-js.git
+{ "url": "git://github.com/oauth-io/oauth-js.git" }

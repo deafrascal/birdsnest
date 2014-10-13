@@ -1,1 +1,1 @@
-git://github.com/medialize/sass.js.git
+{ "url": "git://github.com/medialize/sass.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/gbirke/Sanitize.js.git
+{ "url": "git://github.com/gbirke/Sanitize.js.git" }

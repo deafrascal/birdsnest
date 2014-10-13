@@ -1,1 +1,1 @@
-git://github.com/nodebox/g.js.git
+{ "url": "git://github.com/nodebox/g.js.git" }

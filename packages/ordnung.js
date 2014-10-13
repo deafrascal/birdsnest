@@ -1,1 +1,1 @@
-git://github.com/cypherq/ordnung.js.git
+{ "url": "git://github.com/cypherq/ordnung.js.git" }

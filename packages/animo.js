@@ -1,1 +1,1 @@
-git://github.com/ThrivingKings/animo.js.git
+{ "url": "git://github.com/ThrivingKings/animo.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/layerssss/unchained.coffee/
+{ "url": "git://github.com/layerssss/unchained.coffee/" }

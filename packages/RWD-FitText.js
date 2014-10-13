@@ -1,1 +1,1 @@
-git://github.com/Milanowicz/FitText.js.git
+{ "url": "git://github.com/Milanowicz/FitText.js.git" }

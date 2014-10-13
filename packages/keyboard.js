@@ -1,1 +1,1 @@
-git://github.com/SonoIo/keyboard.git
+{ "url": "git://github.com/SonoIo/keyboard.git" }

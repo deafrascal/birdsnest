@@ -1,1 +1,1 @@
-git://github.com/GianlucaGuarini/Vague.js
+{ "url": "git://github.com/GianlucaGuarini/Vague.js" }

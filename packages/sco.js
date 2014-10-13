@@ -1,1 +1,1 @@
-git://github.com/terebentina/sco.js
+{ "url": "git://github.com/terebentina/sco.js" }

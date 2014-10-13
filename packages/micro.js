@@ -1,1 +1,1 @@
-git://github.com/dreyacosta/bower-microjs.git
+{ "url": "git://github.com/dreyacosta/bower-microjs.git" }

@@ -1,1 +1,1 @@
-git://github.com/suevalov/assert-types.js.git
+{ "url": "git://github.com/suevalov/assert-types.js.git" }

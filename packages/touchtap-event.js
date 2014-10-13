@@ -1,1 +1,1 @@
-git://github.com/Tyriar/touchtap-event.js.git
+{ "url": "git://github.com/Tyriar/touchtap-event.js.git" }

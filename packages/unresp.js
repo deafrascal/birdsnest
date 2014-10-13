@@ -1,1 +1,1 @@
-git://github.com/alberto-bottarini/unresp.js.git
+{ "url": "git://github.com/alberto-bottarini/unresp.js.git" }

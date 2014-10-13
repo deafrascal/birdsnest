@@ -1,1 +1,1 @@
-git://github.com/mccxj/statechart.js.git
+{ "url": "git://github.com/mccxj/statechart.js.git" }

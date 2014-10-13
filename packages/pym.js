@@ -1,1 +1,1 @@
-git://github.com/nprapps/pym.js.git
+{ "url": "git://github.com/nprapps/pym.js.git" }

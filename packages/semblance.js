@@ -1,1 +1,1 @@
-git://github.com/cfsghost/semblance.js.git
+{ "url": "git://github.com/cfsghost/semblance.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/thansen-solire/jquery.controle.js.git
+{ "url": "git://github.com/thansen-solire/jquery.controle.js.git" }

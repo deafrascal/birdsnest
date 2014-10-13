@@ -1,1 +1,1 @@
-git://github.com/Fetchnotes/Text.js.git
+{ "url": "git://github.com/Fetchnotes/Text.js.git" }

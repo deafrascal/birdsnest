@@ -1,1 +1,1 @@
-git://github.com/danielfeelfine/smoothScroll.js.git
+{ "url": "git://github.com/danielfeelfine/smoothScroll.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/mknecht/gridscrolling.js.git
+{ "url": "git://github.com/mknecht/gridscrolling.js.git" }

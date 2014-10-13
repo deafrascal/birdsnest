@@ -1,1 +1,1 @@
-git://github.com/orapouso/fox-angular-scrollReveal.js.git
+{ "url": "git://github.com/orapouso/fox-angular-scrollReveal.js.git" }

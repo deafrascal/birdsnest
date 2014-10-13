@@ -1,1 +1,1 @@
-git://github.com/gfarrell/enum.js
+{ "url": "git://github.com/gfarrell/enum.js" }

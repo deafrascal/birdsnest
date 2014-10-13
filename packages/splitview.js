@@ -1,1 +1,1 @@
-git://github.com/sweikenb/splitview.js.git
+{ "url": "git://github.com/sweikenb/splitview.js.git" }

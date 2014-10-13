@@ -1,1 +1,1 @@
-git://github.com/shokai/xframe.js.git
+{ "url": "git://github.com/shokai/xframe.js.git" }

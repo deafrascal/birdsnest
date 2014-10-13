@@ -1,1 +1,1 @@
-git://github.com/WebSeed/grobo.js.git
+{ "url": "git://github.com/WebSeed/grobo.js.git" }

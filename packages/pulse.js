@@ -1,1 +1,1 @@
-git://github.com/StreetHub/pulse.js.git
+{ "url": "git://github.com/StreetHub/pulse.js.git" }

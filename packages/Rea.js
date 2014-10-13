@@ -1,1 +1,1 @@
-git://github.com/grantmiiller/ReaJs.git
+{ "url": "git://github.com/grantmiiller/ReaJs.git" }

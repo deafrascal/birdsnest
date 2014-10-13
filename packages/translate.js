@@ -1,1 +1,1 @@
-git://github.com/randombitstudio/translate.js.git
+{ "url": "git://github.com/randombitstudio/translate.js.git" }

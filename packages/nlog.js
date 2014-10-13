@@ -1,1 +1,1 @@
-git://github.com/knightli/nlog.js.git
+{ "url": "git://github.com/knightli/nlog.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/callmehiphop/watcher.js.git
+{ "url": "git://github.com/callmehiphop/watcher.js.git" }

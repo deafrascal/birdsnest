@@ -1,1 +1,1 @@
-git://github.com/jdarling/aggregate.js.git
+{ "url": "git://github.com/jdarling/aggregate.js.git" }

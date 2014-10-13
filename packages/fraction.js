@@ -1,1 +1,1 @@
-git://github.com/infusion/Fraction.js.git
+{ "url": "git://github.com/infusion/Fraction.js.git" }

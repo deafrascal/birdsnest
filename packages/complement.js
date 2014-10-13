@@ -1,1 +1,1 @@
-git://github.com/VictorQueiroz/complement.js.git
+{ "url": "git://github.com/VictorQueiroz/complement.js.git" }

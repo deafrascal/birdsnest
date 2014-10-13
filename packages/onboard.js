@@ -1,1 +1,1 @@
-git://github.com/nozzle/onboard.js.git
+{ "url": "git://github.com/nozzle/onboard.js.git" }

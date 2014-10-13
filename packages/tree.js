@@ -1,1 +1,1 @@
-git://github.com/marmelab/tree.js.git
+{ "url": "git://github.com/marmelab/tree.js.git" }

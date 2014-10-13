@@ -1,1 +1,1 @@
-git://github.com/bebraw/jquery.tokko.js
+{ "url": "git://github.com/bebraw/jquery.tokko.js" }

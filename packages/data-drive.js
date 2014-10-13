@@ -1,1 +1,1 @@
-git://github.com/easeway/data-drive.js
+{ "url": "git://github.com/easeway/data-drive.js" }

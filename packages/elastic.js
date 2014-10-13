@@ -1,1 +1,1 @@
-git://github.com/fullscale/elastic.js.git
+{ "url": "git://github.com/fullscale/elastic.js.git" }

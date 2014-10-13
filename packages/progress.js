@@ -1,1 +1,1 @@
-git://github.com/usablica/progress.js.git
+{ "url": "git://github.com/usablica/progress.js.git" }

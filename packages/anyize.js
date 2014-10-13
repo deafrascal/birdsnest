@@ -1,1 +1,1 @@
-git://github.com/jespino/anyize.js
+{ "url": "git://github.com/jespino/anyize.js" }

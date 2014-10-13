@@ -1,1 +1,1 @@
-git://github.com/kvendrik/Browserkit.js.git
+{ "url": "git://github.com/kvendrik/Browserkit.js.git" }

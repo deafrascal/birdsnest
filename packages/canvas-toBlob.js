@@ -1,1 +1,1 @@
-git://github.com/apitts/canvas-toBlob.js.git
+{ "url": "git://github.com/apitts/canvas-toBlob.js.git" }

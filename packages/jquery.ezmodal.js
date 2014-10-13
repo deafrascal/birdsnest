@@ -1,1 +1,1 @@
-git://github.com/MailOnline/jquery.ezmodal.js.git
+{ "url": "git://github.com/MailOnline/jquery.ezmodal.js.git" }

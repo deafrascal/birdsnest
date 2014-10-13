@@ -1,1 +1,1 @@
-git://github.com/NUKnightLab/TimelineJS.git
+{ "url": "git://github.com/NUKnightLab/TimelineJS.git" }

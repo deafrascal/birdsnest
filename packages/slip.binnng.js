@@ -1,1 +1,1 @@
-git://github.com/binnng/slip.js.git
+{ "url": "git://github.com/binnng/slip.js.git" }

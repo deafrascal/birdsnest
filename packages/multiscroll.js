@@ -1,1 +1,1 @@
-git://github.com/alvarotrigo/multiscroll.js.git
+{ "url": "git://github.com/alvarotrigo/multiscroll.js.git" }

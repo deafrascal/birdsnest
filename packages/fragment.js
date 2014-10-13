@@ -1,1 +1,1 @@
-git://github.com/DanielRapp/fragment.js.git
+{ "url": "git://github.com/DanielRapp/fragment.js.git" }

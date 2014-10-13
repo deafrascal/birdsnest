@@ -1,1 +1,1 @@
-git://github.com/kripken/box2d.js.git
+{ "url": "git://github.com/kripken/box2d.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/wixo/helm.js.git
+{ "url": "git://github.com/wixo/helm.js.git" }

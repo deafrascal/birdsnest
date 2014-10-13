@@ -1,1 +1,1 @@
-git://github.com/jaridmargolin/bouncefix.js.git
+{ "url": "git://github.com/jaridmargolin/bouncefix.js.git" }

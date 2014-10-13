@@ -1,1 +1,1 @@
-git://github.com/Puffant/paste.js.git
+{ "url": "git://github.com/Puffant/paste.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/EtienneDion/stacknav.jquery.js.git
+{ "url": "git://github.com/EtienneDion/stacknav.jquery.js.git" }

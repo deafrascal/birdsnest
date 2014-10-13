@@ -1,1 +1,1 @@
-git://github.com/just-paja/pwf.js.git
+{ "url": "git://github.com/just-paja/pwf.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/bigbang/bigbang-client-js.git
+{ "url": "git://github.com/bigbang/bigbang-client-js.git" }

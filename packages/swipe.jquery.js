@@ -1,1 +1,1 @@
-git://github.com/Tundra-Interactive/swipe.jquery.js.git
+{ "url": "git://github.com/Tundra-Interactive/swipe.jquery.js.git" }

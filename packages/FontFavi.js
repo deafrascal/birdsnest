@@ -1,1 +1,1 @@
-git://github.com/flyworld/FontFavi.js.git
+{ "url": "git://github.com/flyworld/FontFavi.js.git" }

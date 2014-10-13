@@ -1,1 +1,1 @@
-git://github.com/endtwist/kerning.js.git
+{ "url": "git://github.com/endtwist/kerning.js.git" }

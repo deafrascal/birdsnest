@@ -1,1 +1,1 @@
-git://github.com/Haixing-Hu/fix-cjk-linebreak.js.git
+{ "url": "git://github.com/Haixing-Hu/fix-cjk-linebreak.js.git" }

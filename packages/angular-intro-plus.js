@@ -1,1 +1,1 @@
-git://github.com/iamdenny/angular-intro-plus.js.git
+{ "url": "git://github.com/iamdenny/angular-intro-plus.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/ajb/beforeunload.js.git
+{ "url": "git://github.com/ajb/beforeunload.js.git" }

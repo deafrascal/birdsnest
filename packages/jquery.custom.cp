@@ -1,1 +1,1 @@
-git://github.com/Auine/jquery.custom.cp.git
+{ "url": "git://github.com/Auine/jquery.custom.cp.git" }

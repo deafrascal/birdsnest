@@ -1,1 +1,1 @@
-git://github.com/corbanbrook/dsp.js.git
+{ "url": "git://github.com/corbanbrook/dsp.js.git" }

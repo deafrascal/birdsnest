@@ -1,1 +1,1 @@
-git://github.com/fanlia/jquery.backbone.js.git
+{ "url": "git://github.com/fanlia/jquery.backbone.js.git" }

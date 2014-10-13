@@ -1,1 +1,1 @@
-git://github.com/tadeuzagallo/tmux.js.git
+{ "url": "git://github.com/tadeuzagallo/tmux.js.git" }

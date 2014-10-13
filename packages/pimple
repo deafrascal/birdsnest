@@ -1,1 +1,1 @@
-git://github.com/Mparaiso/Pimple.js.git
+{ "url": "git://github.com/Mparaiso/Pimple.js.git" }

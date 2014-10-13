@@ -1,1 +1,1 @@
-git://github.com/beckafly/insulatejs.git
+{ "url": "git://github.com/beckafly/insulatejs.git" }

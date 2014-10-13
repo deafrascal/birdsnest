@@ -1,1 +1,1 @@
-git://github.com/BinaryMuse/planetary.js.git
+{ "url": "git://github.com/BinaryMuse/planetary.js.git" }

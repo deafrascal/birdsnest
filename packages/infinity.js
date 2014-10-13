@@ -1,1 +1,1 @@
-git://github.com/SimonWaldherr/infinity.js.git
+{ "url": "git://github.com/SimonWaldherr/infinity.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/patrickmarabeas/ng-FitText.js.git
+{ "url": "git://github.com/patrickmarabeas/ng-FitText.js.git" }

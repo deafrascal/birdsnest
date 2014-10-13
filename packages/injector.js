@@ -1,1 +1,1 @@
-git://github.com/biggerboat/injector.js.git
+{ "url": "git://github.com/biggerboat/injector.js.git" }

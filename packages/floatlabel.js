@@ -1,1 +1,1 @@
-git://github.com/clubdesign/floatlabels.js.git
+{ "url": "git://github.com/clubdesign/floatlabels.js.git" }

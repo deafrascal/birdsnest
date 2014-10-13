@@ -1,1 +1,1 @@
-git://github.com/SonoIo/postmessage.git
+{ "url": "git://github.com/SonoIo/postmessage.git" }

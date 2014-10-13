@@ -1,1 +1,1 @@
-git://github.com/nsisodiya/choona.js.git
+{ "url": "git://github.com/nsisodiya/choona.js.git" }

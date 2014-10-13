@@ -1,1 +1,1 @@
-git://github.com/jakiestfu/Context.js.git
+{ "url": "git://github.com/jakiestfu/Context.js.git" }

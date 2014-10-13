@@ -1,1 +1,1 @@
-git://github.com/makesites/backbone-markdown.git
+{ "url": "git://github.com/makesites/backbone-markdown.git" }

@@ -1,1 +1,1 @@
-git://github.com/GoogleChrome/webrtc.git
+{ "url": "git://github.com/GoogleChrome/webrtc.git" }

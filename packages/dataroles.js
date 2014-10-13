@@ -1,1 +1,1 @@
-git://github.com/remcoder/dataroles.js.git
+{ "url": "git://github.com/remcoder/dataroles.js.git" }

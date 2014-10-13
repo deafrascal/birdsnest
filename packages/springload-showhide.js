@@ -1,1 +1,1 @@
-git://github.com/springload/ShowHide.js.git
+{ "url": "git://github.com/springload/ShowHide.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/gburghardt/inherit.js.git
+{ "url": "git://github.com/gburghardt/inherit.js.git" }

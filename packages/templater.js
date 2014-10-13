@@ -1,1 +1,1 @@
-git://github.com/cypherq/templater.js.git
+{ "url": "git://github.com/cypherq/templater.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/stephanepericat/stereoscope.js.git
+{ "url": "git://github.com/stephanepericat/stereoscope.js.git" }

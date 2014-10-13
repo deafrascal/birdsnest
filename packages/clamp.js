@@ -1,1 +1,1 @@
-git://github.com/PedroFelipe/Clamp.js
+{ "url": "git://github.com/PedroFelipe/Clamp.js" }

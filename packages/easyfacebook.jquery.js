@@ -1,1 +1,1 @@
-git://github.com/EtienneDion/easyfacebook.jquery.js.git
+{ "url": "git://github.com/EtienneDion/easyfacebook.jquery.js.git" }

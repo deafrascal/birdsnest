@@ -1,1 +1,1 @@
-git://github.com/kripken/sql.js.git
+{ "url": "git://github.com/kripken/sql.js.git" }

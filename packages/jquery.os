@@ -1,1 +1,1 @@
-git://github.com/suprMax/jquery.os.git
+{ "url": "git://github.com/suprMax/jquery.os.git" }

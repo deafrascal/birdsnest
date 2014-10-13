@@ -1,1 +1,1 @@
-git://github.com/bostrt/wordcount.js.git
+{ "url": "git://github.com/bostrt/wordcount.js.git" }

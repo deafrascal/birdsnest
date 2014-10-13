@@ -1,1 +1,1 @@
-git://github.com/ggozad/mnemonic.js.git
+{ "url": "git://github.com/ggozad/mnemonic.js.git" }

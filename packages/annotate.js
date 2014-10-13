@@ -1,1 +1,1 @@
-git://github.com/bebraw/annotate.js
+{ "url": "git://github.com/bebraw/annotate.js" }

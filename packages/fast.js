@@ -1,1 +1,1 @@
-git://github.com/codemix/fast.js.git
+{ "url": "git://github.com/codemix/fast.js.git" }

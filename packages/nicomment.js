@@ -1,1 +1,1 @@
-git://github.com/phi1618/nicomment.js.git
+{ "url": "git://github.com/phi1618/nicomment.js.git" }

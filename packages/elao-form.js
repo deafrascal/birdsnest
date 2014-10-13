@@ -1,1 +1,1 @@
-git://github.com/Elao/form.js.git
+{ "url": "git://github.com/Elao/form.js.git" }

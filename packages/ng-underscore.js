@@ -1,1 +1,1 @@
-git://github.com/VictorQueiroz/ngUnderscore.git
+{ "url": "git://github.com/VictorQueiroz/ngUnderscore.git" }

@@ -1,1 +1,1 @@
-git://github.com/Offirmo/network-constants.js.git
+{ "url": "git://github.com/Offirmo/network-constants.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/mobidevpublisher/RAD.JS
+{ "url": "git://github.com/mobidevpublisher/RAD.JS" }

@@ -1,1 +1,1 @@
-git://github.com/Coreorient/heatmap.js.git
+{ "url": "git://github.com/Coreorient/heatmap.js.git" }

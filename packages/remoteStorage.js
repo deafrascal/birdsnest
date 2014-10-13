@@ -1,1 +1,1 @@
-git://github.com/unhosted/remoteStorage.js
+{ "url": "git://github.com/unhosted/remoteStorage.js" }

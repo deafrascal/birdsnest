@@ -1,1 +1,1 @@
-git://github.com/haydenbleasel/fineprint.js.git
+{ "url": "git://github.com/haydenbleasel/fineprint.js.git" }

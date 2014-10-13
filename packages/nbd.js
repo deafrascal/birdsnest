@@ -1,1 +1,1 @@
-git://github.com/behance/nbd.js.git
+{ "url": "git://github.com/behance/nbd.js.git" }

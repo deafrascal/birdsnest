@@ -1,1 +1,1 @@
-git://github.com/flowjs/fusty-flow.js.git
+{ "url": "git://github.com/flowjs/fusty-flow.js.git" }

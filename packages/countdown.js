@@ -1,1 +1,1 @@
-git://github.com/limitingfactor/countdown.js.git
+{ "url": "git://github.com/limitingfactor/countdown.js.git" }

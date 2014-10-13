@@ -1,1 +1,1 @@
-git://github.com/gildas-lormeau/zip.js.git
+{ "url": "git://github.com/gildas-lormeau/zip.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/Herzucco/Puppets.js.git
+{ "url": "git://github.com/Herzucco/Puppets.js.git" }

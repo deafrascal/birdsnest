@@ -1,1 +1,1 @@
-git://github.com/aemkei/fishbone.js.git
+{ "url": "git://github.com/aemkei/fishbone.js.git" }

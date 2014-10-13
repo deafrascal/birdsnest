@@ -1,1 +1,1 @@
-git://github.com/snrbrnjna/galleryjs.git
+{ "url": "git://github.com/snrbrnjna/galleryjs.git" }

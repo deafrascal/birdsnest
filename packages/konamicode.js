@@ -1,1 +1,1 @@
-git://github.com/ddprrt/konamicode.js.git
+{ "url": "git://github.com/ddprrt/konamicode.js.git" }

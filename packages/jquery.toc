@@ -1,1 +1,1 @@
-git://github.com/ndabas/toc
+{ "url": "git://github.com/ndabas/toc" }

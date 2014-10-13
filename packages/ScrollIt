@@ -1,1 +1,1 @@
-git://github.com/cmpolis/scrollIt.js.git
+{ "url": "git://github.com/cmpolis/scrollIt.js.git" }

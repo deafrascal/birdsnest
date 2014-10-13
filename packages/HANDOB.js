@@ -1,1 +1,1 @@
-git://github.com/StupidStudio/HANDOB.js.git
+{ "url": "git://github.com/StupidStudio/HANDOB.js.git" }

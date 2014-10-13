@@ -1,1 +1,1 @@
-git://github.com/mojombo/clippy.git
+{ "url": "git://github.com/mojombo/clippy.git" }

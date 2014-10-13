@@ -1,1 +1,1 @@
-git://github.com/colibri-software/strollopiajs_bower.git
+{ "url": "git://github.com/colibri-software/strollopiajs_bower.git" }

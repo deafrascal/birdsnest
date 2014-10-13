@@ -1,1 +1,1 @@
-git://github.com/dhabersack/handpicked.js.git
+{ "url": "git://github.com/dhabersack/handpicked.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/cfinke/Typo.js.git
+{ "url": "git://github.com/cfinke/Typo.js.git" }

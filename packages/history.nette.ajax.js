@@ -1,1 +1,1 @@
-git://github.com/vojtech-dobes/history.nette.ajax.js.git
+{ "url": "git://github.com/vojtech-dobes/history.nette.ajax.js.git" }

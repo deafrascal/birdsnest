@@ -1,1 +1,1 @@
-git://github.com/willemdewit/java.properties.js.git
+{ "url": "git://github.com/willemdewit/java.properties.js.git" }

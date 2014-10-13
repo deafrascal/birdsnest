@@ -1,1 +1,1 @@
-git://github.com/jaridmargolin/pre-flight.js.git
+{ "url": "git://github.com/jaridmargolin/pre-flight.js.git" }

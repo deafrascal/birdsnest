@@ -1,1 +1,1 @@
-git://github.com/Mparaiso/webdb.js.git
+{ "url": "git://github.com/Mparaiso/webdb.js.git" }

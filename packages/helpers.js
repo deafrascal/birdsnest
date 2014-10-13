@@ -1,1 +1,1 @@
-git://github.com/styleseek/helpers.js.git
+{ "url": "git://github.com/styleseek/helpers.js.git" }

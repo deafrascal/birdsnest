@@ -1,1 +1,1 @@
-git://github.com/albert-gonzalez/easytimer.js.git
+{ "url": "git://github.com/albert-gonzalez/easytimer.js.git" }

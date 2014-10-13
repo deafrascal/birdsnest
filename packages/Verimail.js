@@ -1,1 +1,1 @@
-git://github.com/chilijung/Verimail.js.git
+{ "url": "git://github.com/chilijung/Verimail.js.git" }

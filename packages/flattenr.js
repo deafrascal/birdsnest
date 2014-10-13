@@ -1,1 +1,1 @@
-git://github.com/raitucarp/flattenr.js.git
+{ "url": "git://github.com/raitucarp/flattenr.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/danielemoraschi/maplace.js.git
+{ "url": "git://github.com/danielemoraschi/maplace.js.git" }

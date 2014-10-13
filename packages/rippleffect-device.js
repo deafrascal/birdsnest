@@ -1,1 +1,1 @@
-git://github.com/Rippleffect/device.js.git
+{ "url": "git://github.com/Rippleffect/device.js.git" }

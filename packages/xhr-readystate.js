@@ -1,1 +1,1 @@
-git://github.com/wilmoore/xhr-readystate.js.git
+{ "url": "git://github.com/wilmoore/xhr-readystate.js.git" }

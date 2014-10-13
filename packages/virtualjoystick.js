@@ -1,1 +1,1 @@
-git://github.com/jeromeetienne/virtualjoystick.js.git
+{ "url": "git://github.com/jeromeetienne/virtualjoystick.js.git" }

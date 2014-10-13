@@ -1,1 +1,1 @@
-git://github.com/jswinarton/inline-svg.jquery.js.git
+{ "url": "git://github.com/jswinarton/inline-svg.jquery.js.git" }

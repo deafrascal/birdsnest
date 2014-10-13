@@ -1,1 +1,1 @@
-git://github.com/darkoverlordofdata/liquid.coffee.git
+{ "url": "git://github.com/darkoverlordofdata/liquid.coffee.git" }

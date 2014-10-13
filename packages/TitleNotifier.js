@@ -1,1 +1,1 @@
-git://github.com/roshiro/TitleNotifier.js.git
+{ "url": "git://github.com/roshiro/TitleNotifier.js.git" }

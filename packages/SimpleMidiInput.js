@@ -1,1 +1,1 @@
-git://github.com/kchapelier/SimpleMidiInput.js
+{ "url": "git://github.com/kchapelier/SimpleMidiInput.js" }

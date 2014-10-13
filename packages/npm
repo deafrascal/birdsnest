@@ -1,1 +1,1 @@
-git://github.com/npm/npm.git
+{ "url": "git://github.com/npm/npm.git" }

@@ -1,1 +1,1 @@
-git://github.com/jaridmargolin/stringspace.js.git
+{ "url": "git://github.com/jaridmargolin/stringspace.js.git" }

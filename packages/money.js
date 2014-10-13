@@ -1,1 +1,1 @@
-git://github.com/openexchangerates/money.js.git
+{ "url": "git://github.com/openexchangerates/money.js.git" }

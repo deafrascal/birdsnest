@@ -1,1 +1,1 @@
-git://github.com/kus/orientation.js.git
+{ "url": "git://github.com/kus/orientation.js.git" }

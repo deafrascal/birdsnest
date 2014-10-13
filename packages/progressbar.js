@@ -1,1 +1,1 @@
-git://github.com/kimmobrunfeldt/progressbar.js.git
+{ "url": "git://github.com/kimmobrunfeldt/progressbar.js.git" }

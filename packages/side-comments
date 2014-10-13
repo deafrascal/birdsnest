@@ -1,1 +1,1 @@
-git://github.com/aroc/side-comments.git
+{ "url": "git://github.com/aroc/side-comments.git" }

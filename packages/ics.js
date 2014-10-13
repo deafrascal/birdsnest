@@ -1,1 +1,1 @@
-git://github.com/nwcell/ics.js.git
+{ "url": "git://github.com/nwcell/ics.js.git" }

@@ -1,1 +1,1 @@
-git://github.com/LearnBoost/socket.io
+{ "url": "git://github.com/LearnBoost/socket.io" }

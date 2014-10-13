@@ -1,1 +1,1 @@
-git://github.com/nodebox/opentype.js.git
+{ "url": "git://github.com/nodebox/opentype.js.git" }

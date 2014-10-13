@@ -8,6 +8,6 @@ do
   url=$(echo $line | cut -d ' ' -f2)
 
   if [ -n "$name" ]; then
-    echo $url > "packages/$name"
+    echo "{ \"url\": \"$url\" }" > "packages/$name"
   fi
 done

@@ -1,1 +1,1 @@
-git://github.com/morr/jquery.appear.git
+{ "url": "git://github.com/morr/jquery.appear.git" }

@@ -1,1 +1,1 @@
-git://github.com/xat/sope.js.git
+{ "url": "git://github.com/xat/sope.js.git" }

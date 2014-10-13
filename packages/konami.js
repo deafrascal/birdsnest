@@ -1,1 +1,1 @@
-git://github.com/mckamey/konami-js.git
+{ "url": "git://github.com/mckamey/konami-js.git" }

@@ -1,1 +1,1 @@
-git://github.com/ryancp/bower-sails.io
+{ "url": "git://github.com/ryancp/bower-sails.io" }

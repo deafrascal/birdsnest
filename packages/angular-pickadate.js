@@ -1,1 +1,1 @@
-git://github.com/gdi2290/angular-pickadate.js.git
+{ "url": "git://github.com/gdi2290/angular-pickadate.js.git" }

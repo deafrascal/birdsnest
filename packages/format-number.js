@@ -1,1 +1,1 @@
-git://github.com/sergeyt/format-number.js.git
+{ "url": "git://github.com/sergeyt/format-number.js.git" }

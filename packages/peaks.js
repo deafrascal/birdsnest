@@ -1,1 +1,1 @@
-git://github.com/bbcrd/peaks.js.git
+{ "url": "git://github.com/bbcrd/peaks.js.git" }

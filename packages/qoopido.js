@@ -1,1 +1,1 @@
-git://github.com/dlueth/qoopido.js.git
+{ "url": "git://github.com/dlueth/qoopido.js.git" }

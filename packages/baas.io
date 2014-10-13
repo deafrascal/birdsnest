@@ -1,1 +1,1 @@
-git://github.com/baasio/baas.io-sdk-javascript.git
+{ "url": "git://github.com/baasio/baas.io-sdk-javascript.git" }

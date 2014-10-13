@@ -1,1 +1,1 @@
-git://github.com/kimooz/us-map.git
+{ "url": "git://github.com/kimooz/us-map.git" }

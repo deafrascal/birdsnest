@@ -1,1 +1,1 @@
-git://github.com/CodeCatalyst/promise.coffee.git
+{ "url": "git://github.com/CodeCatalyst/promise.coffee.git" }

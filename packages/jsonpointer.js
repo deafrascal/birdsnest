@@ -1,1 +1,1 @@
-git://github.com/alexeykuzmin/jsonpointer.js.git
+{ "url": "git://github.com/alexeykuzmin/jsonpointer.js.git" }

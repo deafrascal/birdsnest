@@ -1,1 +1,1 @@
-git://github.com/nakautot/linq.git
+{ "url": "git://github.com/nakautot/linq.git" }

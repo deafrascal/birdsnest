@@ -1,1 +1,1 @@
-git://github.com/nicdaCosta/featurama.js.git
+{ "url": "git://github.com/nicdaCosta/featurama.js.git" }

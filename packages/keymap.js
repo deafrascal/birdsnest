@@ -1,1 +1,1 @@
-git://github.com/mzabriskie/keymap.js.git
+{ "url": "git://github.com/mzabriskie/keymap.js.git" }

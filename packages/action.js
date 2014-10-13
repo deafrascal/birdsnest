@@ -1,1 +1,1 @@
-git://github.com/acroidea/action.js.git
+{ "url": "git://github.com/acroidea/action.js.git" }

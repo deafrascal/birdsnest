@@ -1,1 +1,1 @@
-git://github.com/Leimi/drawingboard.js.git
+{ "url": "git://github.com/Leimi/drawingboard.js.git" }

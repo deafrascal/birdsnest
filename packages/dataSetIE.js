@@ -1,1 +1,1 @@
-git://github.com/lagden/data-set-IE.git
+{ "url": "git://github.com/lagden/data-set-IE.git" }

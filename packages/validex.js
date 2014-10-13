@@ -1,1 +1,1 @@
-git://github.com/exdis/validex.git
+{ "url": "git://github.com/exdis/validex.git" }

@@ -1,1 +1,1 @@
-git://github.com/futurepress/epub.js.git
+{ "url": "git://github.com/futurepress/epub.js.git" }

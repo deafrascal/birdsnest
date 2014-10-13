@@ -1,1 +1,1 @@
-git://github.com/richardbutler/backfire.git
+{ "url": "git://github.com/richardbutler/backfire.git" }

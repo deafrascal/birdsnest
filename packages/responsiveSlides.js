@@ -1,1 +1,1 @@
-git://github.com/viljamis/ResponsiveSlides.js.git
+{ "url": "git://github.com/viljamis/ResponsiveSlides.js.git" }

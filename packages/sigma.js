@@ -1,1 +1,1 @@
-git://github.com/tuvistavie/sigma-bower.git
+{ "url": "git://github.com/tuvistavie/sigma-bower.git" }

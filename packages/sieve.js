@@ -1,1 +1,1 @@
-git://github.com/Leko/sieve.js.git
+{ "url": "git://github.com/Leko/sieve.js.git" }

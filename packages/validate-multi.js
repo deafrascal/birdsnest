@@ -1,1 +1,1 @@
-git://github.com/chilijung/validate-multi.js.git
+{ "url": "git://github.com/chilijung/validate-multi.js.git" }

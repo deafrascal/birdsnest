@@ -1,1 +1,1 @@
-git://github.com/Puppets/future-vars.js.git
+{ "url": "git://github.com/Puppets/future-vars.js.git" }

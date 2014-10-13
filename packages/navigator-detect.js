@@ -1,1 +1,1 @@
-git://github.com/ThreeceeStudios/navigator-detect.js.git
+{ "url": "git://github.com/ThreeceeStudios/navigator-detect.js.git" }

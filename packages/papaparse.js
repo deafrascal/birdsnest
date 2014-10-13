@@ -1,1 +1,1 @@
-git://github.com/mholt/PapaParse.git
+{ "url": "git://github.com/mholt/PapaParse.git" }
