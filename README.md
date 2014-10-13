@@ -40,4 +40,4 @@ Private registries can easily be managed by forking this repository and making i
 ## Authors
 
 - [@josh](https://github.com/josh)
-- [@macman](https://github.com/maccman)
+- [@maccman](https://github.com/maccman)
