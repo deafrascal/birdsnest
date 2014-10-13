@@ -28,7 +28,7 @@ Registration is done through pull requests.
 
 1. Go to https://github.com/josh/birdsnest/new/gh-pages/packages
 2. Set the name of the file to the package name
-3. Set the contents of the file to the source
+3. Set the contents of the file to the git url
 4. Open change as a pull request
 
 Pull requests that only add a new file can be automatically merged by a bot. Rename or deletions of a package may require discussion and maintainer approval.
